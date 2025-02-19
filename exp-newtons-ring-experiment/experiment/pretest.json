@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which phenomenon explains the formation of Newton's rings?",
+      "answers": {
+        "a": "Diffraction",
+        "b": "Interference",
+        "c": "Reflection",
+        "d": "Polarization"
+      },
+      "explanations": {
+        "a": "Diffraction involves bending of waves around obstacles, which is not the case here.",
+        "b": "Correct. Newton's rings are formed due to the interference of light reflected from the top and bottom surfaces of the air film.",
+        "c": "Reflection alone does not lead to the pattern seen.",
+        "d": "Polarization is not responsible for the observed rings."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the shape of the fringes in Newton's rings experiment?",
+      "answers": {
+        "a": "Straight lines",
+        "b": "Ellipses",
+        "c": "Concentric circles",
+        "d": "Random patterns"
+      },
+      "explanations": {
+        "a": "Straight lines are not observed in this setup.",
+        "b": "Ellipses occur in some interference setups but not here.",
+        "c": "Correct. The fringes are concentric circles centered on the point of contact.",
+        "d": "Random patterns are not characteristic of this phenomenon."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Why is the central spot in Newton's rings dark?",
+      "answers": {
+        "a": "Due to destructive interference",
+        "b": "Due to constructive interference",
+        "c": "Because light does not reach the center",
+        "d": "Due to the absence of air film at the center"
+      },
+      "explanations": {
+        "a": "Correct. Destructive interference occurs at the center where the path difference is zero.",
+        "b": "Constructive interference would create a bright spot.",
+        "c": "Light does reach the center but interferes destructively.",
+        "d": "While the air film is minimal, the key reason is interference."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "4. Which color appears at the outer rings in a Newton's rings experiment with white light?",
+      "answers": {
+        "a": "Red",
+        "b": "Blue",
+        "c": "Green",
+        "d": "Yellow"
+      },
+      "explanations": {
+        "a": "Correct. Red, having the longest wavelength, appears at the outer rings due to greater path differences.",
+        "b": "Blue, with a shorter wavelength, appears closer to the center.",
+        "c": "Green appears in between red and blue.",
+        "d": "Yellow is not dominant at the outermost rings."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "5. In Newton's rings experiment, what happens to the fringe width if the wavelength of light increases?",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "Becomes zero"
+      },
+      "explanations": {
+        "a": "Correct. Fringe width is directly proportional to the wavelength of light.",
+        "b": "Fringe width decreases with decreasing wavelength.",
+        "c": "Fringe width is wavelength-dependent.",
+        "d": "Fringe width does not become zero."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "6. What is the relation between the radius of a dark ring and the radius of curvature of the lens in Newton's rings?",
+      "answers": {
+        "a": "Directly proportional",
+        "b": "Inversely proportional",
+        "c": "Independent",
+        "d": "Depends on wavelength only"
+      },
+      "explanations": {
+        "a": "Correct. The radius of the dark ring increases with the radius of curvature of the lens.",
+        "b": "This is not the case; they are directly proportional.",
+        "c": "The radius is dependent on the lens curvature.",
+        "d": "Wavelength affects the radius but not independently."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "7. What happens to the fringe visibility if the experiment is performed with light of two different wavelengths?",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains the same",
+        "d": "No fringes are formed"
+      },
+      "explanations": {
+        "a": "Fringe visibility does not increase with different wavelengths.",
+        "b": "Correct. Fringe visibility decreases due to the overlapping of patterns from different wavelengths.",
+        "c": "The visibility changes when multiple wavelengths are used.",
+        "d": "Fringes are formed but with reduced visibility."
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "8. What is the key condition for observing Newton's rings?",
+      "answers": {
+        "a": "Coherent light source",
+        "b": "Monochromatic light source",
+        "c": "Large wavelength of light",
+        "d": "High-intensity light"
+      },
+      "explanations": {
+        "a": "Correct. A coherent light source ensures stable interference patterns.",
+        "b": "Monochromatic light enhances clarity but is not mandatory.",
+        "c": "Wavelength affects fringe width but not the key condition.",
+        "d": "Intensity does not play a critical role in fringe formation."
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "9. How does the use of a plano-convex lens affect the Newton's rings experiment?",
+      "answers": {
+        "a": "Creates circular fringes",
+        "b": "Improves visibility",
+        "c": "Reduces fringe width",
+        "d": "Increases interference"
+      },
+      "explanations": {
+        "a": "Correct. The plano-convex lens creates the circular air film responsible for Newton's rings.",
+        "b": "Visibility depends on light source and experimental setup.",
+        "c": "Fringe width depends on wavelength and curvature.",
+        "d": "Interference is not increased but structured."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Why are Newton's rings circular and not elliptical?",
+      "answers": {
+        "a": "Because the lens is plano-convex",
+        "b": "Because the light source is monochromatic",
+        "c": "Due to spherical symmetry of the lens",
+        "d": "Because of the wavelength of light"
+      },
+      "explanations": {
+        "a": "The plano-convex lens contributes but is not the sole reason.",
+        "b": "Monochromatic light ensures clarity, not shape.",
+        "c": "Correct. The spherical symmetry of the lens results in concentric circles.",
+        "d": "Wavelength influences fringe spacing, not the shape."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    }
+  ]
+}
